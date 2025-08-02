@@ -182,4 +182,4 @@ This project is maintained solely by Anshul Kushwah. For questions or feedback, 
 
 ## License
 
-Project developed by Anshul Kushwah under the guidance of Scientist E : NS Nathan, C-DAC Bangalore. See [LICENSE](./LICENSE) for terms.
+Project developed by Anshul Kushwah under the guidance of Scientist E : NS Nathan, C-DAC Bangalore (C-DAC a premier Indian research and development organization under the Ministry of Electronics and Information Technology (MeitY)). See [LICENSE](./LICENSE) for terms.
